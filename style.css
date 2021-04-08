@@ -1,0 +1,68 @@
+body {
+    background: #cacaca;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(34, 34, 34);
+    margin: 0;
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+p {
+    color: rgb(0, 49, 70);
+}
+
+.profile {
+    text-align: center;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shorthand */
+    border-radius: 50%;
+    margin: 30px;
+    box-shadow: 0px 0px 15px black;
+}
+
+h1 {
+    margin-bottom: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(70, 70, 70);
+    font-weight: 300;
+    letter-spacing: -1px;
+}
+
+.paragrafo1 {
+    margin-bottom: 0;
+}
+
+.paragrafo2 {
+    margin-top: 0px;
+}
+
+.logos-sociais {
+    width: 20px;
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+.footer {
+    margin-top: 40px;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
